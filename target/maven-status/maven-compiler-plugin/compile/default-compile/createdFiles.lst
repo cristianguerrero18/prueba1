@@ -1,0 +1,16 @@
+com\ProyectoSamuelDeportes\samuel\app\ProyectoSamuelDeportesApplication.class
+com\ProyectoSamuelDeportes\samuel\app\variables\Club.class
+com\ProyectoSamuelDeportes\samuel\app\variables\Jugadores.class
+com\ProyectoSamuelDeportes\samuel\app\controller\JugadoresController.class
+com\ProyectoSamuelDeportes\samuel\app\repositorio\EntrenadoresRepositorio.class
+com\ProyectoSamuelDeportes\samuel\app\controller\ClubController.class
+com\ProyectoSamuelDeportes\samuel\app\repositorio\AsociacionRepositorio.class
+com\ProyectoSamuelDeportes\samuel\app\repositorio\CompeticionesRepositorio.class
+com\ProyectoSamuelDeportes\samuel\app\controller\EntrenadoresController.class
+com\ProyectoSamuelDeportes\samuel\app\variables\Entrenadores.class
+com\ProyectoSamuelDeportes\samuel\app\repositorio\ClubRepositorio.class
+com\ProyectoSamuelDeportes\samuel\app\variables\Asociacion.class
+com\ProyectoSamuelDeportes\samuel\app\controller\AsociacionController.class
+com\ProyectoSamuelDeportes\samuel\app\controller\CompeticionesController.class
+com\ProyectoSamuelDeportes\samuel\app\repositorio\JugadoresRepositorio.class
+com\ProyectoSamuelDeportes\samuel\app\variables\Competiciones.class
