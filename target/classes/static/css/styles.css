@@ -1,0 +1,23 @@
+body {
+    font-family: 'Arial', sans-serif;
+    background: url('/img/deportes.jpg') no-repeat center center fixed;
+    background-size: cover;
+    color: #fff;
+    margin-top: 70px; /* Ajuste para evitar que el contenido se oculte detrás de la barra de navegación */
+    padding-bottom: 20px;
+}
+
+.bg-primary {
+    background: rgba(255, 153, 0, 0.8); /* Fondo naranja semi-transparente */
+    padding: 20px;
+    border-radius: 10px;
+}
+
+.bg-primary h1 {
+    font-size: 3rem;
+    font-weight: bold;
+}
+
+.bg-primary p {
+    font-size: 1.25rem;
+}
